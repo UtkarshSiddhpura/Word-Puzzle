@@ -1,14 +1,7 @@
 var items = new Array();
 
 var WordList = [
-  {
-    name: "word1",
-    value: "Graduate",
-    type: "media",
-    list: { index: 1, name: "words" },
-    media: "text",
-    hint: "",
-  },
+  
   {
     name: "word2",
     value: "Uniforms",
