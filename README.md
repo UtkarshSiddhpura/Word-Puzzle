@@ -15,4 +15,4 @@ https://utkarshsiddhpura.github.io/Word-Puzzle/
 - The function creates an empty 2D array called grid with dimensions "maxlen x maxlen", where maxlen is the total length of all the words in items multiplied by 2. The function then attempts to place each word in items into the grid by finding an intersection point with an already-placed word and orienting the new word in a direction that does not conflict with any existing words. The function continues attempting to place words until all words have been placed or it has made 100 failed attempts to place a word.
 
 - At the end it trims the grid as much as possible because of really large maxlen.
-- I still can't figure what pattern exactly they're using and how they form similar(not exact) word puzzle for given data in script.js everytime.
+- I still can't figure what pattern exactly they're using and how they form similar word puzzle for given data in script.js everytime.
