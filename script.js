@@ -1,7 +1,6 @@
 var items = new Array();
 
 var WordList = [
-  
   {
     name: "word2",
     value: "Uniforms",
