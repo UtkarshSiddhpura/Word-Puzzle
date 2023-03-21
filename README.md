@@ -1,2 +1,2 @@
 # Word-Puzzle
-Word Puzzle implementation from https://learningapps.org/
+Simplified Word Puzzle implementation from https://learningapps.org/ 
